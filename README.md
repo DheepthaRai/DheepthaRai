@@ -10,21 +10,8 @@ I am **Dheeptha Rai**, a final year Information Technology student at [SASTRA Un
 
 😄 Preferred Pronouns: *she/her*
 
-## 🎧 Now Listening to
-[![spotify-github-profile]
-<script type="text/javascript">
-                function get_spotify() {
-                    $.ajax({
-                        type: 'POST',
-                        url: '/Scripts/last.fm.php',
-                        data: { request: 'true' },
-                        success: function(reply) {
-                            $('.now-playing').html("<p>" + reply + "</p>");
-                        }
-                    });
-                }
-                window.onload = get_spotify;
-            </script>
+## 🗣️ Fluent in
+- Programming Languages: <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
 
 
 <!--
