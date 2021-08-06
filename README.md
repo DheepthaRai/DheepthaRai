@@ -5,7 +5,7 @@ I am **Dheeptha Rai**, an Information Technology student at [SASTRA University](
 <a href="https://www.linkedin.com/in/dheeptha-rai-63102491/"><img src="https://img.shields.io/badge/Dheeptha Rai%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: dheeptha-rai"/></a>
 <a href="https://www.instagram.com/dheeptharai/"><img src="https://img.shields.io/badge/dheeptharai%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: Dheeptha Rai" /></a>
 <a href="https://twitter.com/DheepthaRai"><img src="https://img.shields.io/badge/DheepthaRai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter: DheepthaRai" /></a>
-<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Dheeptha Rai#8461-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)" alt="Twitter: Dheeptha-Rai" /></a>
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Dheeptha Rai#8461-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)" alt="Discord: Dheeptha Rai" /></a>
 
 😄 Preferred Pronouns: *she/her*
 
