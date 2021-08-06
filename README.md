@@ -3,8 +3,8 @@
 I am **Dheeptha Rai**, an Information Technology student at [SASTRA University](https://www.sastra.edu/). 
 
 <a href="https://www.linkedin.com/in/dheeptha-rai-63102491/"><img src="https://img.shields.io/badge/Dheeptha Rai%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: dheeptha-rai"/></a>
-<a href="https://www.instagram.com/dheeptharai/"><img src="https://img.shields.io/badge/dheeptharai%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: dheeptharai" /></a>
-<a href="https://twitter.com/DheepthaRai"><img src="https://img.shields.io/badge/DheepthaRai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter: dheeptharai" /></a>
+<a href="https://www.instagram.com/dheeptharai/"><img src="https://img.shields.io/badge/dheeptharai%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: Dheeptha Rai" /></a>
+<a href="https://twitter.com/DheepthaRai"><img src="https://img.shields.io/badge/DheepthaRai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter: Dheeptha Rai" /></a>
 <!--
 **DheepthaRai/DheepthaRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
