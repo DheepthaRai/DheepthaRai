@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am **Dheeptha Rai**, an Information Technology student at [SASTRA](https://www.sastra.edu/). 
+I am **Dheeptha Rai**, an Information Technology student at [SASTRA University](https://www.sastra.edu/). 
 
-<a href="https://www.linkedin.com/in/dheeptha-rai-jm-63102491"></a>
+<a href="https://www.linkedin.com/in/dheeptha-rai-jm-63102491"><img src="https://img.shields.io/badge/Dheeptha Rai%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: dheeptha-rai" /></a>
 <a href="https://www.instagram.com/kavyakrithvi/"></a>
 <a href="https://twitter.com/DheepthaRai"></a>
 <!--
