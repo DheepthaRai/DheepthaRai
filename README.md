@@ -8,7 +8,7 @@ I am **Dheeptha Rai**, a final year Information Technology student at [SASTRA Un
 <!--<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Dheeptha Rai#8461%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)" alt="Discord: Dheeptha Rai" /></a> 
 -->
 
-😄 Preferred Pronouns: *she/her*
+Preferred Pronouns: *she/her*
 
 ## 🗣️ Experience
 - Programming Languages:
