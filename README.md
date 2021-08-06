@@ -19,7 +19,8 @@ I am **Dheeptha Rai**, a final year Information Technology student at [SASTRA Un
 
 - Tools & IDEs: <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Jupyter Notebook"/> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"/> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
-![Dheeptha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheepthaRai&show_icons=true)
+![Dheeptha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheepthaRai&show_icons=true&theme=radical)
+
 
 
 <!--
