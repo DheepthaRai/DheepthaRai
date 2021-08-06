@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I am **Dheeptha Rai**, a final year Information Technology student at [SASTRA University](https://www.sastra.edu/). 
 
