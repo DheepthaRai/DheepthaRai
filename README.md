@@ -34,11 +34,8 @@ I am **Dheeptha Rai**, a final year Information Technology student at [SASTRA Un
 
 ## 📈 Stats
 ![Dheeptha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheepthaRai&show_icons=true&theme=radical&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheepthaRai&layout=compact)](https://github.com/DheepthaRai/github-readme-stats)
 
-
-
-<!--
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DheepthaRai&layout=compact)](https://github.com/DheepthaRai/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
