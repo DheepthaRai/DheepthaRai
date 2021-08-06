@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am **Dheeptha Rai**, an Information Technology student at [SASTRA](https://www.sastra.edu/). 
+
+<a href="https://www.linkedin.com/in/dheeptha-rai-jm-63102491"></a>
+<a href="https://www.instagram.com/kavyakrithvi/"></a>
+<a href="https://twitter.com/DheepthaRai"></a>
 <!--
 **DheepthaRai/DheepthaRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
