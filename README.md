@@ -30,7 +30,7 @@ I am **Dheeptha Rai**, a final year Information Technology student at [SASTRA Un
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
+<!-- ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white) -->
 
 ## 📈 Stats
 ![Dheeptha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheepthaRai&show_icons=true&theme=radical&hide=issues)
