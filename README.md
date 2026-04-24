@@ -6,7 +6,8 @@ Previously, I spent 3 years at **o9 Solutions** as a consultant on enterprise su
 
 Now I build at the intersection of **product, operations, and AI governance**.
 
-<a href="https://www.linkedin.com/in/dheeptharai/"><img src="https://img.shields.io/badge/Dheeptha Rai%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: dheeptha-rai"/></a>
+<a href="https://www.linkedin.com/in/dheeptharai/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://dheeptha.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 
 Preferred pronouns: *she/her*
 
