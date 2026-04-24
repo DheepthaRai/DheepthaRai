@@ -7,7 +7,6 @@ Previously, I spent 3 years at **o9 Solutions** as a consultant on enterprise su
 Now I build at the intersection of **product, operations, and AI governance**.
 
 <a href="https://www.linkedin.com/in/dheeptharai/"><img src="https://img.shields.io/badge/Dheeptha Rai%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: dheeptha-rai"/></a>
-<a href="https://twitter.com/DheepthaRai"><img src="https://img.shields.io/badge/DheepthaRai%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter: DheepthaRai" /></a>
 
 Preferred pronouns: *she/her*
 
@@ -15,9 +14,9 @@ Preferred pronouns: *she/her*
 
 ## 🔨 Currently Building
 
-**[CalibrAI](https://dheeptha.com)** — AI governance platform with an LLM threshold calibration framework. Built with FastAPI + React. Presented at CoDEx 2026.
+**[CalibrAI](https://github.com/DheepthaRai/CalibrAI)** — AI governance platform with an LLM threshold calibration framework. Built with FastAPI + React. Presented at CoDEx 2026.
 
-**PeerCon** — Student mentorship platform (Supabase + Lovable) connecting grad students across Northwestern, Duke, and CMU. 16+ active users.
+**[PeerCon](https://peercon-us.com/)** — Student mentorship platform (Supabase + Lovable) connecting grad students across Northwestern, Duke, and CMU. 75+ active users.
 
 **Operations Optimization App** — Supply chain course project applying constraint-based optimization to real planning scenarios.
 
