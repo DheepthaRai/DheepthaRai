@@ -14,18 +14,18 @@ Preferred pronouns: *she/her*
 
 ## 🔨 Currently Building
 
-**[CalibrAI](https://github.com/DheepthaRai/CalibrAI)** — AI governance platform with an LLM threshold calibration framework. Built with FastAPI + React. Presented at CoDEx 2026.
+**[CalibrAI](https://github.com/DheepthaRai/CalibrAI)** : AI governance platform backed by research, with an LLM threshold calibration framework. Built with FastAPI + React. Presented at Northwestern's CoDEx 2026.
 
-**[PeerCon](https://peercon-us.com/)** — Student mentorship platform (Supabase + Lovable) connecting grad students across Northwestern, Duke, and CMU. 75+ active users.
+**[PeerCon](https://peercon-us.com/)** : Student mentorship platform (Supabase + Lovable) connecting grad students across Northwestern, Duke, and CMU. 75+ active users.
 
-**Operations Optimization App** — Supply chain course project applying constraint-based optimization to real planning scenarios.
+**Operations Optimization App** : Supply chain course project applying constraint-based optimization to real planning scenarios.
 
 ---
 
 ## 🗣️ Background
 
-- **Supply chain planning & IBP** — enterprise implementations across demand planning, solution architecture, UAT
-- **Product management** — CSPO certified; product strategy coursework at Northwestern + Kellogg
+- **Supply chain planning & IBP:** enterprise implementations across demand planning, solution architecture, UAT
+- **Product management:** CSPO certified; product strategy coursework at Northwestern + Kellogg
 - **Tools I actually use:** Python, SQL, React (enough to build), Figma, Excel/Sheets
 
 ---
